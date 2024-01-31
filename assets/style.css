@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  background-color: blanchedalmond;
+  text-align: center;
+}
+
+.container {
+  padding-block: 25em;
+}
+
+input {
+  width: 50em;
+}
+
+#addBtn {
+  width: 8em;
+}
