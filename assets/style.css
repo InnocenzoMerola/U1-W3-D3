@@ -10,14 +10,10 @@ body {
   text-align: center;
 }
 
-.task {
-  padding-block: 25em;
-}
-
 input {
   width: 50em;
 }
 
-#addBtn {
+#btn {
   width: 8em;
 }
